@@ -29,8 +29,6 @@ CREATE TABLE `project_general_data`
     `MainWorkCenterBaseCamp`                     varchar(20) DEFAULT NULL,
     `Planet`                                     varchar(20) DEFAULT NULL,
     `Satellite`                                  varchar(20) DEFAULT NULL,
-    `Star`                                       varchar(20) DEFAULT NULL,
-    `Galaxy`                                     varchar(20) DEFAULT NULL,
     `LocationName`                               varchar(40) DEFAULT NULL,
     `GlobalLocationName`                         varchar(40) DEFAULT NULL,
     `LocationIDIsOrbital`                        tinyint(1) DEFAULT NULL,
